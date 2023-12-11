@@ -64,6 +64,11 @@ $ cd [your-repository-name]
 
 [yes.](https://news.ycombinator.com/item?id=3067434)
 
+## Definitions
+
+- This are constraints you give to your project
+- Here's another constraint: use this README!
+
 ## Roadmap
 
 - [x] Add this README.
