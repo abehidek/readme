@@ -116,6 +116,6 @@ List of apps or libs that do similar stuff as your project.
 
 ---
 
-> [abehidek.me](https://abehidek.me) &nbsp;&middot;&nbsp;
+> [hidek.xyz](https://hidek.xyz) &nbsp;&middot;&nbsp;
 > GitHub [@abehidek](https://github.com/abehidek) &nbsp;&middot;&nbsp;
 > Twitter [@guilhermehabe](https://twitter.com/guilhermehabe)
